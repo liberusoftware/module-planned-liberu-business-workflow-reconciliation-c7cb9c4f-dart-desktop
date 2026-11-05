@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-business-workflow-reconciliation-c7cb9c4f-dart-desktop",
+  "capabilityKey": "planned:liberu:business-workflow-reconciliation",
+  "presentation": "dart-desktop",
+  "package": "module_planned_liberu_business_workflow_reconciliation_c7cb9c4f_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/liberu/nextjs/business-workflow-reconciliation.md",
+  "presentationPlan": "projects/liberu/features/business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
